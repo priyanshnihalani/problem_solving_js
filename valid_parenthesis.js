@@ -19,7 +19,7 @@ function validParenthis(s){
     return arr.length == 0;
 }
 
-([{}])
+"}])"
 
 ['(', '[', '{'] // valid
 
